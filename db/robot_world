@@ -1,9 +1,0 @@
----
-robots:
-- name: zack
-  city: fort wayne
-  state: in
-  avatar: 
-  birthdate: 6/11/1982
-  date hired: 5/9/2016
-  department: cleanerbots
