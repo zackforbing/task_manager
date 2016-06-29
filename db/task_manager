@@ -1,11 +1,8 @@
 ---
 tasks:
-- id: 1
-  title: create task_manager
-  description: for turing school
 - id: 2
-  title: create task_manager
-  description: for turing school
+  title: ehhhhh
+  description: can you not?
 - id: 3
   title: add more tasks
   description: task_manager hungry. task_manager need more tasks!

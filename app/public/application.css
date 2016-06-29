@@ -1,0 +1,47 @@
+body {
+
+  h1 {
+    color: orange;
+  }
+  color: #FFF;
+  text-align: center;
+  animation-name: homeCycle;
+  animation-duration:1s;
+  animation-direction:alternate;
+  animation-iteration-count:infinite;
+
+  -webkit-animation-name: homeCycle;
+  -webkit-animation-duration:1s;
+  -webkit-animation-direction:alternate;
+  -webkit-animation-iteration-count:infinite; }
+
+  @keyframes homeCycle
+  {
+    0% {background-color: : #ff0000;}
+    10% {background-color: : #ff8000;}
+    20% {background-color: : #ffff00;}
+    30% {background-color: : #80ff00;}
+    40% {background-color: : #00ff00;}
+    50% {background-color: : #00ff80;}
+    60% {background-color: : #00ffff;}
+    70% {background-color: : #0080ff;}
+    80% {background-color: : #0000ff;}
+    90% {background-color: : #8000ff;}
+    100% {background-color: : #ff0080;}
+  }
+
+  @-webkit-keyframes homeCycle
+  {
+    0% {background-color: : #ff0000;}
+    10% {background-color: : #ff8000;}
+    20% {background-color: : #ffff00;}
+    30% {background-color: : #80ff00;}
+    40% {background-color: : #00ff00;}
+    50% {background-color: : #00ff80;}
+    60% {background-color: : #00ffff;}
+    70% {background-color: : #0080ff;}
+    80% {background-color: : #0000ff;}
+    90% {background-color: : #8000ff;}
+    100% {background-color: : #ff0080;}
+  }
+}
